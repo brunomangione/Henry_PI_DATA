@@ -29,7 +29,7 @@ Como primer paso, leugo de la obtención de los datos, fue realizar una previsua
 La limpieza de los datos se basó en eliminar datos nulos o reemplazarlos por cero, de acuerdo al caso, eliminar columnas vacias, modificacion de tipos de datos, de tal forma que quedaran correctos a la hora del análisis. 
 Los datos corregidos fueron exportados en formato csv a la carpeta Datasets, para despues utilizarlo en nuestro análisis EDA.
 
-### *`Tecnologias empleadas`*: Pandas, Numpy.
+## *`Tecnologias empleadas`*: Pandas, Numpy.
 
 
 ## **`EDA`**</h2>
@@ -89,7 +89,7 @@ Visualizamos que las velocidades a nivel nacional tuvo una evolución y crecimie
 El gran crecimiento de las conexiones de +30Mbps tambien lo podemos relacionar con el análisis anterior y el crecimiento de la fibra óptica, ya que esta tecnología soprta mayor capcidad de velocidad. 
 Las provincias con mayores conexiones siguen siendo Buenos Aires, Capital Federal, Cordoba y Santa Fe, y las conexiones se encuentran en un rango mayor a los 30Mbps (son las que predominan) y entre 1-6Mbps, mientras que en el resto de las provincias las conexiones que predominan son las de entre 1-6Mbps.
 
-### *`Tecnologias empleadas`*: Pandas, Numpy, Seaborn, Matplotlib.
+## *`Tecnologias empleadas`*: Pandas, Numpy, Seaborn, Matplotlib.
 
 
 
@@ -102,7 +102,7 @@ Utilizamos la herramienta Power BI para explorar y visalizar los datos trabajado
 * Aumentar el 5% el acceso a internet de un año con respecto al anterior, cada 100 habitantes, por por provincia.
 * 
 
-### *`Tecnologias empleadas`*: PowerBI, MySQL, DAX.
+## *`Tecnologias empleadas`*: PowerBI, MySQL, DAX.
 
 
 ## **Autor: Bruno Mangione**</h2>
