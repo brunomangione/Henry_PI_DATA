@@ -2,6 +2,8 @@
 
 # <h1 align=center> **Data Analysis - ENACOM** </h1>
 
+<p align=center><img src=./imagenes/Enacom.png><p>
+
 ## **Propuesta general**</h2>
 
 **Se propone analizar la situación actual de los servicios de telecomunicaciones, haciendo énfasis en el Acceso a internet, viendo como fue su evolución y comportamiento en los últimos años a nivel nacional.**
@@ -99,8 +101,8 @@ Las provincias con mayores conexiones siguen siendo Buenos Aires, Capital Federa
 Utilizamos la herramienta Power BI para explorar y visalizar los datos trabajados en los datasets y podamos mostrar nuestras conclusiones. Entre ellas vamos a poder ver: 
 
 * Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
-* Aumentar el 5% el acceso a internet de un año con respecto al anterior, cada 100 habitantes, por por provincia.
-* 
+* Aumentar en un 10% el acceso a internet de un año con respecto al anterior, cada 100 habitantes, por por provincia.
+* Aumentar en un 5% la conectividad de Fibra Optica de un año con respecto al anterior por Provincia.
 
 ### *`Tecnologias empleadas`*: PowerBI, MySQL, DAX.
 
