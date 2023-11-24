@@ -4,6 +4,10 @@
 
 <p align=center><img src=./imagenes/Enacom.png><p>
 
+## **Autor: `Bruno Mangione`**</h2>
+### Contacto: [Linkedin](https://www.linkedin.com/in/brunomangione/)
+
+
 ## **Propuesta general**</h2>
 
 **Se propone analizar la situación actual de los servicios de telecomunicaciones, haciendo énfasis en el Acceso a internet, viendo como fue su evolución y comportamiento en los últimos años a nivel nacional.**
@@ -104,10 +108,23 @@ Utilizamos la herramienta Power BI para explorar y visalizar los datos trabajado
 * Aumentar en un 10% el acceso a internet de un año con respecto al anterior, cada 100 habitantes, por por provincia.
 * Aumentar en un 5% la conectividad de Fibra Optica de un año con respecto al anterior por Provincia.
 
+A continuacion mostramos unas capturas de pantallas del dashboard interactivo: 
+
+<p align=center><img src=./imagenes/100Habitantes.png><p>
+
+<p align=center><img src=./imagenes/100Hogares.png><p>
+
+<p align=center><img src=./imagenes/Tecnologia.png><p>
+
+<p align=center><img src=./imagenes/Velocidades.png><p>
+
+<p align=center><img src=./imagenes/Conclusiones.png><p>
+
+
 ### *`Tecnologias empleadas`*: PowerBI, MySQL, DAX.
 
 
-## **Autor: `Bruno Mangione`**</h2>
+
 
 
 
